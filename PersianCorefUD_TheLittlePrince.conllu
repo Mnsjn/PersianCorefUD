@@ -1500,13 +1500,13 @@
 3	آها	آها	INTJ	PSUS	_	1	ccomp	1:ccomp	_
 4	!	!	PUNCT	PUNC	_	1	punct	1:punct	_
 5	این	این	PRON	PR_DEMON	Number=Sing	2	nsubj	2:nsubj	Entity=(c73)
-6	درست	درست	ADJ	ADJ_AJP	_	3	advmod	3:advmod	_
-7	همان	همان	PRON	PR_DEMON	Number=Sing	0	root	0:root	_
-8	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	3:cop	_
+6	درست	درست	ADJ	ADJ_AJP	_	7	amod	7:amod	_
+7	همان	همان	PRON	PR_DEMON	Number=Sing	1	ccomp	1:ccomp	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	7:cop	_
 9	که	که	SCONJ	SUBR	_	7	mark	7:mark	_
-10	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	Entity=(c31)
-11	می‌خواستم	خواست	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	3	acl	3:acl	_
-12	.	.	PUNCT	PUNC	_	7	punct	7:punct	SpacesAfter=\n
+10	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	Entity=(c31)
+11	می‌خواستم	خواست	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	7	acl	7:acl	_
+12	.	.	PUNCT	PUNC	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = 95
 # text = چطور مگر ؟
@@ -6823,7 +6823,7 @@
 3	و	و	CCONJ	CONJ	_	4	cc	4:cc	_
 4-5	نقیضند	_	_	_	_	_	_	_	_
 4	نقیض	نقیض	NOUN	N_IANM	Number=Sing	2	conj	2:conj	_
-5	ند	هست	VERB	AUX	Number=Plur|Person=3	0	root	0:root	_
+5	ند	هست	AUX	AUX	Number=Plur|Person=3	2	cop	2:cop	_
 6	این	این	DET	PREM_DEMAJ	_	7	det	7:det	TokenRange=19:22
 7	گلها	گل	NOUN	N_IANM	Number=Plur	5	nsubj	5:nsubj	_
 8	!	!	PUNCT	PUNC	_	5	punct	5:punct	SpacesAfter=\n
@@ -10113,7 +10113,7 @@
 7	.	.	PUNCT	PUNC	_	5	punct	5:punct	SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	5	punct	5:punct	_
 9	چه	چه	PRON	PR_INTG	Number=Sing	10	obj	10:obj	_
-10	می‌دانم	دانست	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	_
+10	می‌دانم	دانست	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	5	parataxis	5:parataxis	_
 10.1	pro	PRO	PRON	_	Number=Sing|Person=1|PronType=Prs|Zero=Yes	_	_	10:nsubj	Entity=(c6)
 11	.	.	PUNCT	PUNC	_	10	punct	10:punct	SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	10	punct	10:punct	SpaceAfter=No
@@ -15066,12 +15066,12 @@
 1	گلها	گل	NOUN	N_ANM	Number=Plur	2	nsubj	2:nsubj	Entity=(c55)
 2	گفتند	گفت	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 3	:	:	PUNCT	PUNC	_	2	punct	2:punct	_
-4	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	Entity=(c55)
-5	گل	گل	NOUN	N_IANM	Number=Sing	7	xcomp	7:xcomp	Entity=(c55
+4	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	Entity=(c55)
+5	گل	گل	NOUN	N_IANM	Number=Sing	2	ccomp	2:ccomp	Entity=(c55
 6-7	سرخیم	_	_	_	_	_	_	_	_
 6	سرخ	سرخ	ADJ	ADJ_AJP	_	5	amod	5:amod	Entity=c55)
-7	یم	هست	VERB	AUX	Number=Plur|Person=1	0	root	0:root	_
-8	!	!	PUNCT	PUNC	_	7	punct	7:punct	SpacesAfter=\n
+7	یم	هست	AUX	AUX	Number=Plur|Person=1	5	cop	5:cop	_
+8	!	!	PUNCT	PUNC	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = 1034
 # text = شازده کوچولو آهی کشید و خود را بسیار بدبخت احساس کرد .
@@ -21335,7 +21335,7 @@
 29	خندیدن	خندیدن	NOUN	N_IANM	Number=Sing	31	compound:lvc	31:compound:lvc	_
 30-31	بلدند	_	_	_	_	_	_	_	_
 30	بلد	بلد	NOUN	N_IANM	Number=Sing	31	xcomp	31:xcomp	_
-31	ند	هست	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	0	root	0:root	_
+31	ند	هست	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	15	parataxis	15:parataxis	_
 32	!	!	PUNCT	PUNC	_	31	punct	31:punct	SpacesAfter=\n
 
 # sent_id = 1455
