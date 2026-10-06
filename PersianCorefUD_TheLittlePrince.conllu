@@ -15685,8 +15685,8 @@
 6	اهلی	اهلی	ADJ	ADJ_AJP	_	7	xcomp	7:xcomp	_
 7	کنی	کرد	VERB	V_ACT	Number=Sing|Person=2|Voice=Act	14	advcl	14:advcl	_
 8	،	،	PUNCT	PUNC	_	7	punct	7:punct	_
-9	هر	هر	DET	PREM_AMBAJ	_	10	det	10:det	Entity=(c1012
-10	دو	دو	NOUN	N_IANM	Number=Sing	14	nsubj	14:nsubj	Entity=c1012)|SplitAnte=c19<c1012,c31<c1012
+9	هر	هر	DET	PREM_AMBAJ	_	10	det	10:det	Entity=(c1012|SplitAnte=c19<c1012,c31<c1012
+10	دو	دو	NOUN	N_IANM	Number=Sing	14	nsubj	14:nsubj	Entity=c1012)
 11	بهم	بهم	ADP	PREP	_	10	amod	10:amod	_
 12	نیازمند	نیازمند	ADJ	ADJ_AJP	_	14	xcomp	14:xcomp	_
 13	خواهیم	خواست	AUX	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	14	aux	14:aux	_
