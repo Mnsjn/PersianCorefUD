@@ -19361,9 +19361,9 @@
 5	.	.	PUNCT	PUNC	_	4	punct	4:punct	SpaceAfter=No
 6	.	.	PUNCT	PUNC	_	4	punct	4:punct	SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	4	punct	4:punct	_
-8-9	گوسفندم	_	_	_	_	_	_	_	Entity=(c58)
 8	پوزه‌بندی	پوزه‌بندی	NOUN	N_IANM	Number=Sing	4	obj	4:obj	Entity=(c114)
 9	برای	برای	ADP	PREP	_	10	case	10:case	_
+10-11	گوسفندم	_	_	_	_	_	_	_	_
 10	گوسفند	گوسفند	NOUN	N_ANM	Number=Sing	4	obl	4:obl	Entity=(c58
 11	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	10	nmod	10:nmod	Entity=(c31)c58)
 12	.	.	PUNCT	PUNC	_	11	punct	11:punct	SpaceAfter=No
