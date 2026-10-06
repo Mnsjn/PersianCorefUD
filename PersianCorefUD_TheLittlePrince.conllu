@@ -1781,7 +1781,7 @@
 1	آره	آره	INTJ	PSUS	_	0	root	0:root	SpacesAfter=\n
 
 # sent_id = 116
-# text = : با فروتنی گفتم
+# text = با فروتنی گفتم :
 1	با	با	ADP	PREP	_	2	case	2:case	_
 2	فروتنی	فروتنی	PROPN	N_IANM	Number=Sing	3	obl	3:obl	_
 3	گفتم	گفت	VERB	V_ACT	Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	0:root	_
