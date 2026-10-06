@@ -14723,7 +14723,7 @@
 20	.	.	PUNCT	PUNC	_	13	punct	13:punct	SpacesAfter=\n
 
 # sent_id = 1009
-# text = و او ا آتشفشان خاموشش به جای چهارپایه استفاده می‌کرد .
+# text = و او از آتشفشان خاموشش به جای چهارپایه استفاده می‌کرد .
 1	و	و	CCONJ	CONJ	_	11	obl	11:obl	_
 2	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	Entity=(c31)
 3	از	از	ADP	PREP	_	4	case	4:case	_
