@@ -4669,7 +4669,7 @@
 2	۷	۷	NUM	POSNUM	_	1	nummod	1:nummod	SpacesAfter=\n
 
 # sent_id = 290
-# text = روز پنجم باز به سبب گوسفند ، ‌راز دیگری از زندگی شازده کوچولو بر من آشکار شد .
+# text = روز پنجم باز به سبب گوسفند ، راز دیگری از زندگی شازده کوچولو بر من آشکار شد .
 1	روز	روز	NOUN	N_IANM	Number=Sing	17	obl	17:obl	_
 2	پنجم	پنجم	ADJ	POSNUM	_	1	amod	1:amod	_
 3	باز	باز	ADV	ADV_SADV	_	17	advmod	17:advmod	_
