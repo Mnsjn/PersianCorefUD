@@ -6999,7 +6999,7 @@
 9	.	.	PUNCT	PUNC	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = 442
-# text = البته ما ، در زمین خود ، بسیار کوچکتر از آنیم که بتوانیم آتش‌فشانهامان را پاک کنیم .
+# text = البته ما ، در زمین خود ، بسیار کوچکتر از آنیم که بتوانیم آتش‌فشانهایمان را پاک کنیم .
 1	البته	البته	ADV	ADV_SADV	_	12	advmod	12:advmod	_
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
 3	،	،	PUNCT	PUNC	_	2	punct	2:punct	_
