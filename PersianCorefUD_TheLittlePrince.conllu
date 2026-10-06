@@ -5005,7 +5005,7 @@
 5	.	.	PUNCT	PUNC	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = 314
-# text = در آن لحظه با خودم می‌گفتم : " اگر این پیچ باز مقاومت کند ، ‌ به ضرب چکش می‌پرانمش . "
+# text = در آن لحظه با خودم می‌گفتم : " اگر این پیچ باز مقاومت کند ، به ضرب چکش می‌پرانمش . "
 1	در	در	ADP	PREP	_	3	case	3:case	_
 2	آن	آن	DET	PREM_DEMAJ	_	3	det	3:det	_
 3	لحظه	لحظه	NOUN	N_IANM	Number=Sing	7	obl	7:obl	_
