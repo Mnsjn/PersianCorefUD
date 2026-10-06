@@ -1370,7 +1370,7 @@
 # text = شاخ دارد .
 1	شاخ	شاخ	NOUN	N_IANM	Number=Sing	2	obj	_	_
 2	دارد	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=PR_DEMON|Zero=Yes	_	_	2:nsubj	Entity=(c569)
+2.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	2:nsubj	Entity=(c569)|Pronoun=it
 3	.	.	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 84
@@ -1721,21 +1721,21 @@
 # sent_id = 109
 # text = پرواز می‌کند .
 1	پرواز	پرواز	NOUN	N_IANM	Number=Sing	2	compound:lvc	_	_
-1.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=PR_DEMON|Zero=Yes	_	_	2:nsubj	Entity=(c22)
+1.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	2:nsubj	Entity=(c22)|Pronoun=it
 2	می‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 3	.	.	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 110
 # text = هواپیما است .
 1	هواپیما	هواپیما	NOUN	N_IANM	Number=Sing	2	nsubj	_	Entity=(c22)
-1.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=PR_DEMON|Zero=Yes	_	_	2:nsubj	Entity=(c22)
+1.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	2:nsubj	Entity=(c22)|Pronoun=it
 2	است	است	AUX	AUX	Number=Sing|Person=3	0	root	_	_
 3	.	.	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 111
 # text = هواپیما است .
 1	هواپیما	هواپیما	NOUN	N_IANM	Number=Sing	2	nsubj	_	Entity=(c22)
-1.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=PR_DEMON|Zero=Yes	_	_	2:nsubj	Entity=(c22)
+1.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	2:nsubj	Entity=(c22)|Pronoun=it
 2	است	است	AUX	AUX	Number=Sing|Person=3	0	root	_	_
 3	.	.	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
