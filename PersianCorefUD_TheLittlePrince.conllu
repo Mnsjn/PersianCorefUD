@@ -6673,9 +6673,9 @@
 4	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	Entity=(c68)
 5	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 6	و	و	CCONJ	CONJ	_	7	cc	7:cc	_
-7-9	بوییدشان	_	_	_	_	_	_	_	SpaceAfter=No
+7-8	بوییدشان	_	_	_	_	_	_	_	SpaceAfter=No
 7	بویید	بویید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	conj	5:conj	_
-8	شان	آنها	PRON	PR_JOPER	Number=Plur|Person=3|PronType=Prs	7	obj	7:obj	SpaceAfter=No
+8	شان	آنها	PRON	PR_JOPER	Number=Plur|Person=3|PronType=Prs	7	obj	7:obj	_
 9	.	.	PUNCT	PUNC	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = 422
