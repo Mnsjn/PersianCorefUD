@@ -7633,7 +7633,7 @@
 17-18	مرا	_	_	_	_	_	_	_	(c31)
 17	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	6	obj	6:obj	Entity=(c31)
 18	را	را	ADP	POSTP	_	4	case	4:case	_
-19	ندیده	دید	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+19	ندیده	دید	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	6	parataxis	6:parataxis	_
 20	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	6:aux	SpacesAfter=\n
 
 # sent_id = 488
