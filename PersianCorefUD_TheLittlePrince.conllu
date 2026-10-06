@@ -563,7 +563,7 @@
 # sent_id = 33
 # text = بلکه خودم را تا سطح او پایین می‌آوردم .
 1	بلکه	بلکه	ADV	ADV_SADV	_	9	advmod	9:advmod	_
-2-3	خودم	_	_	_	_	_	_	_	Entity=(c79)
+2-3	خودم	_	_	_	_	_	_	_	_
 2	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	9	obj	9:obj	Entity=(c79
 3	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	Entity=c79)
 4	را	را	ADP	POSTP	_	2	case	2:case	_
@@ -641,7 +641,7 @@
 25	در	در	ADP	PREP	_	26	case	26:case	_
 26	صحرای	صحرا	PROPN	N_IANM	Number=Sing	31	obl	31:obl	Entity=(c562
 27	آفریقا	آفریقا	PROPN	N_IANM	Number=Sing	26	flat:name	26:flat:name	Entity=(c99)c562)
-28-29	هواپیمایم	_	_	_	_	_	_	_	Entity=(c22)
+28-29	هواپیمایم	_	_	_	_	_	_	_	_
 28	هواپیما	هواپیما	NOUN	N_IANM	Number=Sing	31	nsubj	31:nsubj	Entity=(c22
 29	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	28	nmod	28:nmod	Entity=(c79)c22)
 30	خراب	خراب	ADJ	ADJ_AJP	_	31	xcomp	31:xcomp	_
@@ -750,7 +750,7 @@
 # text = لابد تعجب مرا حدس می‌زنید وقتی در طلوع صبح صدای عجیب و بچه‌گانه‌ای مرا از خواب بیدار کرد .
 1	لابد	لابد	ADV	ADV_SADV	_	6	advmod	6:advmod	_
 2	تعجب	تعجب	NOUN	N_IANM	Number=Sing	6	obj	6:obj	_
-3-4	مرا	_	_	_	_	_	_	_	Entity=(c79)
+3-4	مرا	_	_	_	_	_	_	_	_
 3	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	Entity=(c79)
 4	را	را	ADP	POSTP	_	2	case	2:case	_
 5	حدس	حدس	NOUN	N_IANM	Number=Sing	6	compound:lvc	6:compound:lvc	_
@@ -763,7 +763,7 @@
 12	عجیب	عجیب	ADJ	ADJ_AJP	_	11	amod	11:amod	_
 13	و	و	CCONJ	CONJ	_	14	cc	14:cc	_
 14	بچه‌گانه‌ای	بچه‌گانه	ADJ	ADJ_AJP	_	12	conj	12:conj	Entity=c123)
-15-16	مرا	_	_	_	_	_	_	_	Entity=(c79)
+15-16	مرا	_	_	_	_	_	_	_	_
 15	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	11	nmod	11:nmod	Entity=(c79)
 16	را	را	ADP	POSTP	_	15	case	15:case	_
 17	از	از	ADP	PREP	_	18	case	18:case	_
@@ -841,7 +841,7 @@
 6	با	با	ADP	PREP	_	7	case	7:case	_
 7	وقار	وقار	NOUN	N_IANM	Number=Sing	12	obl	12:obl	_
 8	تمام	تمام	NOUN	N_IANM	Number=Plur	12	obj	12:obj	_
-9-10	مرا	_	_	_	_	_	_	_	Entity=(c79)
+9-10	مرا	_	_	_	_	_	_	_	_
 9	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	8	nmod	8:nmod	Entity=(c79)
 10	را	را	ADP	POSTP	_	8	case	8:case	_
 11	تماشا	تماشا	NOUN	N_IANM	Number=Sing	12	compound:lvc	12:compound:lvc	_
@@ -891,7 +891,7 @@
 # text = چون آدم‌بزرگها مرا در شش سالگی از کار نقاشی دلسرد کرده بودند و من بجز کشیدن شکل مار بوآی باز و مار بوآی بسته نقاشی دیگری نیاموخته بودم .
 1	چون	چون	SCONJ	SUBR	_	28	advcl	28:advcl	_
 2	آدم‌بزرگها	آدم‌بزرگ	NOUN	N_ANM	Number=Plur	12	nsubj	12:nsubj	Entity=(c32)
-3-4	مرا	_	_	_	_	_	_	_	Entity=(c79)
+3-4	مرا	_	_	_	_	_	_	_	_
 3	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	12	obj	12:obj	Entity=(c79)
 4	را	را	ADP	POSTP	_	3	case	3:case	_
 5	در	در	ADP	PREP	_	7	case	7:case	_
@@ -1637,13 +1637,13 @@
 7	چیز	چیز	NOUN	N_IANM	Number=Sing	8	obj	8:obj	_
 8	می‌پرسید	پرسید	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	1	acl	1:acl	_
 9	،	،	PUNCT	PUNC	_	8	punct	8:punct	_
-10-11	خودش	_	_	_	_	_	_	_	Entity=(c31)
+10-11	خودش	_	_	_	_	_	_	_	_
 10	خود	خود	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	Entity=(c31
 11	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	10	nmod	10:nmod	Entity=c31)
 12	مثل‌اینکه	مثل‌اینکه	ADV	ADV_SADV	_	17	advmod	17:advmod	_
 13	هیچوقت	هیچوقت	NOUN	N_IANM	Number=Sing	17	obl	17:obl	_
 14	پرسشهای	پرسش	NOUN	N_IANM	Number=Plur	17	obj	17:obj	_
-15-16	مرا	_	_	_	_	_	_	_	Entity=(c79)
+15-16	مرا	_	_	_	_	_	_	_	_
 15	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	14	nmod	14:nmod	Entity=(c79)
 16	را	را	ADP	POSTP	_	14	case	14:case	_
 17	نمی‌شنید	شنید	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Voice=Act	0	root	0:root	_
@@ -1814,7 +1814,7 @@
 7	جانانه‌ای	جانانه	ADJ	ADJ_AJP	_	6	amod	6:amod	_
 8	خندید	خندید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 9	که	که	SCONJ	SUBR	_	14	mark	14:mark	_
-10-11	مرا	_	_	_	_	_	_	_	Entity=(c79)
+10-11	مرا	_	_	_	_	_	_	_	_
 10	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	14	obj	14:obj	Entity=(c79)
 11	را	را	ADP	POSTP	_	10	case	10:case	_
 12	سخت	سخت	ADJ	ADJ_AJP	_	14	advmod	14:advmod	_
@@ -1832,7 +1832,7 @@
 5	می‌خواهد	خواست	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	0:root	_
 6	همه	همه	NOUN	N_IANM	Number=Plur	11	nsubj	11:nsubj	_
 7	بدبختی‌های	بدبختی	NOUN	N_IANM	Number=Plur	11	obj	11:obj	_
-8-9	مرا	_	_	_	_	_	_	_	Entity=(c79)
+8-9	مرا	_	_	_	_	_	_	_	_
 8	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	7	nmod	7:nmod	Entity=(c79)
 9	را	را	ADP	POSTP	_	7	case	7:case	_
 10	جدی	جدی	ADJ	ADJ_AJP	_	11	xcomp	11:xcomp	_
@@ -2031,7 +2031,7 @@
 
 # sent_id = 131
 # text = منزلت کجاست
-1-2	منزلت	_	_	_	_	_	_	_	Entity=(c29)
+1-2	منزلت	_	_	_	_	_	_	_	_
 1	منزل	منزل	NOUN	N_IANM	Number=Sing	3	nsubj	3:nsubj	Entity=(c29
 2	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	1	nmod	1:nmod	Entity=(c31)c29)
 3-4	کجاست	_	_	_	_	_	_	_	SpacesAfter=\n
@@ -2188,7 +2188,7 @@
 # sent_id = 142
 # text = راست خودش را می‌گیرد و می‌رود .
 1	راست	راست	NOUN	N_IANM	Number=Sing	5	nsubj	5:nsubj	_
-2-3	خودش	_	_	_	_	_	_	_	Entity=(c58)
+2-3	خودش	_	_	_	_	_	_	_	_
 2	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	Entity=(c58
 3	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	Entity=c58)
 4	را	را	ADP	POSTP	_	2	case	2:case	_
@@ -3010,7 +3010,7 @@
 1	زیرا	زیرا	SCONJ	SUBR	_	3	mark	3:mark	_
 2	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Entity=(c79)
 3	نمی‌خواهم	خواست	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Tense=Pres|Voice=Act	0	root	0:root	_
-4-5	کتابم	_	_	_	_	_	_	_	Entity=(c900)
+4-5	کتابم	_	_	_	_	_	_	_	_
 4	کتاب	کتاب	NOUN	N_IANM	Number=Sing	8	obj	8:obj	Entity=(c900
 5	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	Entity=(c79)c900)
 6	را	را	ADP	POSTP	_	4	case	4:case	_
@@ -3043,7 +3043,7 @@
 6	دوست	دوست	NOUN	N_ANM	Number=Sing	11	nsubj	11:nsubj	Entity=(c31
 7	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	6	nmod	6:nmod	Entity=(c79)c31)
 8	با	با	ADP	PREP	_	9	case	9:case	_
-9-10	گوسفندش	_	_	_	_	_	_	_	Entity=(c58)
+9-10	گوسفندش	_	_	_	_	_	_	_	_
 9	گوسفند	گوسفند	NOUN	N_ANM	Number=Sing	11	obl:arg	11:obl:arg	Entity=(c58
 10	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod	Entity=(c31)c58)
 11	رفته	رفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	5	ccomp	5:ccomp	_
@@ -3316,11 +3316,11 @@
 # sent_id = 204
 # text = شاید مرا مثل خودش خیال می‌کرد ،
 1	شاید	شاید	ADV	ADV_SADV	_	8	advmod	8:advmod	_
-2-3	مرا	_	_	_	_	_	_	_	Entity=(c79)
+2-3	مرا	_	_	_	_	_	_	_	_
 2	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	8	obj	8:obj	Entity=(c79)
 3	را	را	ADP	POSTP	_	2	case	2:case	_
 4	مثل	مثل	ADP	PREP	_	5	case	5:case	_
-5-6	خودش	_	_	_	_	_	_	_	Entity=(c31)
+5-6	خودش	_	_	_	_	_	_	_	_
 5	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	8	obl	8:obl	Entity=(c31
 6	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	Entity=c31)
 7	خیال	خیال	NOUN	N_IANM	Number=Sing	8	compound:lvc	8:compound:lvc	_
@@ -3545,7 +3545,7 @@
 25	فیل	فیل	NOUN	N_IANM	Number=Sing	24	nmod	24:nmod	Entity=c41)
 26	هم	هم	ADV	ADV_SADV	_	25	dep	25:dep	_
 27	با	با	ADP	PREP	_	28	case	28:case	_
-28-29	خودش	_	_	_	_	_	_	_	Entity=(c31)
+28-29	خودش	_	_	_	_	_	_	_	_
 28	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	30	obl	30:obl	_
 29	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	28	nmod	28:nmod	Entity=(c31)
 30	ببرد	برد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	35	advcl	35:advcl	_
@@ -3656,7 +3656,7 @@
 1	و	و	CCONJ	CONJ	_	15	obl	15:obl	_
 2	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	Entity=(c79)
 3	برای‌آنکه	برای‌آنکه	SCONJ	SUBR	_	10	mark	10:mark	_
-4-5	خودم	_	_	_	_	_	_	_	Entity=(c79)
+4-5	خودم	_	_	_	_	_	_	_	_
 4	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(c79
 5	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	Entity=c79)
 6	به‌تنهایی	به‌تنهایی	ADV	ADV_SADV	_	10	advmod	10:advmod	_
@@ -4226,7 +4226,7 @@
 20	مدتها	مدت	NOUN	N_IANM	Number=Plur	27	obl	27:obl	_
 21	پیش	پیش	ADJ	ADJ_AJP	_	20	amod	20:amod	_
 22	مثل	مثل	ADP	PREP	_	23	case	23:case	_
-23-24	خودم	_	_	_	_	_	_	_	Entity=(c79)
+23-24	خودم	_	_	_	_	_	_	_	_
 23	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	27	obl	27:obl	Entity=(c79
 24	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	23	nmod	23:nmod	Entity=c79)
 25	با	با	ADP	PREP	_	26	case	26:case	_
@@ -4459,7 +4459,7 @@
 # text = بعد به خودت خندیدی
 1	بعد	بعد	ADV	ADV_SADV	_	5	advmod	5:advmod	_
 2	به	به	ADP	PREP	_	3	case	3:case	_
-3-4	خودت	_	_	_	_	_	_	_	Entity=(c31)
+3-4	خودت	_	_	_	_	_	_	_	_
 3	خود	خودت	PRON	PR_UCREFX	Number=Sing|Person=2|PronType=Prs	5	obl:arg	5:obl:arg	Entity=(c31
 4	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	3	nmod	3:nmod	Entity=c31)
 5	خندیدی	خندید	VERB	V_ACT	Number=Sing|Person=2|Tense=Past|Voice=Act	0	root	0:root	SpacesAfter=\n
@@ -4553,7 +4553,7 @@
 11	کافی	کافی	ADJ	ADJ_AJP	_	0	root	0:root	_
 12	بود	بود	AUX	AUX	Number=Sing|Person=3	11	cop	11:cop	_
 13	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	19	nsubj	19:nsubj	Entity=(c31)
-14-15	صندلیت	_	_	_	_	_	_	_	Entity=(c1000)
+14-15	صندلیت	_	_	_	_	_	_	_	_
 14	صندلی	صندلی	NOUN	N_IANM	Number=Sing	20	obj	20:obj	Entity=(c1000
 15	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	14	nmod	14:nmod	Entity=(c31)c1000)
 16	را	را	ADP	POSTP	_	15	case	15:case	_
@@ -5011,7 +5011,7 @@
 2	آن	آن	DET	PREM_DEMAJ	_	3	det	3:det	_
 3	لحظه	لحظه	NOUN	N_IANM	Number=Sing	7	obl	7:obl	_
 4	با	با	ADP	PREP	_	5	case	5:case	_
-5-6	خودم	_	_	_	_	_	_	_	Entity=(c79)
+5-6	خودم	_	_	_	_	_	_	_	_
 5	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	7	obl:arg	7:obl:arg	_
 6	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	Entity=(c79)
 7	می‌گفتم	گفت	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	0	root	0:root	_
@@ -5042,7 +5042,7 @@
 3	بار	بار	NOUN	N_IANM	Number=Sing	9	obl	9:obl	_
 4	دیگر	دیگر	ADJ	ADJ_AJP	_	3	amod	3:amod	_
 5	افکار	فکر	NOUN	N_IANM	Number=Plur	9	obj	9:obj	_
-6-7	مرا	_	_	_	_	_	_	_	Entity=(c79)
+6-7	مرا	_	_	_	_	_	_	_	_
 6	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	Entity=(c79)
 7	را	را	ADP	POSTP	_	5	case	5:case	_
 8	بهم	بهم	ADP	PREP	_	9	compound:lvc	9:compound:lvc	_
@@ -5123,7 +5123,7 @@
 # sent_id = 325
 # text = او مرا چکش به دست و با انگشتان آلوده به روغن و چربی می‌دید که روی چیزی که در نظرش بسیار زشت بود ، خم شده بودم .
 1	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	Entity=(c31)
-2-3	مرا	_	_	_	_	_	_	_	Entity=(c79)
+2-3	مرا	_	_	_	_	_	_	_	_
 2	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	15	obj	15:obj	Entity=(c79)
 3	را	را	ADP	POSTP	_	2	case	2:case	_
 4	چکش	چکش	NOUN	N_IANM	Number=Sing	15	xcomp	15:xcomp	Entity=(c46)
@@ -5727,7 +5727,7 @@
 # sent_id = 361
 # text = برای گلت هم یک وسیله دفاعی می‌کشم ...
 1	برای	برای	ADP	PREP	_	2	case	2:case	_
-2-3	گلت	_	_	_	_	_	_	_	Entity=(c68)
+2-3	گلت	_	_	_	_	_	_	_	_
 2	گل	گل	NOUN	N_IANM	Number=Sing	6	obl	6:obl	Entity=(c68
 3	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	Entity=(c31)c68)
 4	هم	هم	ADV	ADV_SADV	_	2	dep	2:dep	_
@@ -6438,7 +6438,7 @@
 # sent_id = 407
 # text = شب مرا زیر حباب بلورین بگذارید .
 1	شب	شب	NOUN	N_IANM	Number=Sing	7	obj	7:obj	_
-2-3	مرا	_	_	_	_	_	_	_	Entity=(c68)
+2-3	مرا	_	_	_	_	_	_	_	_
 2	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	Entity=(c68)
 3	را	را	ADP	POSTP	_	1	case	1:case	_
 4	زیر	زیر	ADP	PREP	_	5	case	5:case	_
@@ -6474,7 +6474,7 @@
 1	ولی	ولی	CCONJ	CONJ	_	7	obl	7:obl	_
 2	گل	گل	NOUN	N_IANM	Number=Sing	7	nsubj	7:nsubj	Entity=(c68)
 3	حرف	حرف	NOUN	N_IANM	Number=Sing	7	obj	7:obj	_
-4-5	خودش	_	_	_	_	_	_	_	Entity=(c68)
+4-5	خودش	_	_	_	_	_	_	_	_
 4	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	Entity=(c68)
 5	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod	Entity=(c68)
 6	را	را	ADP	POSTP	_	3	case	3:case	_
@@ -6559,7 +6559,7 @@
 4	بیاورم	آورد	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	2	ccomp	2:ccomp	_
 5	ولی	ولی	CCONJ	CONJ	_	11	cc	11:cc	_
 6	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2|PronType=Prs	11	nsubj	11:nsubj	Entity=(c68)
-7-8	مرا	_	_	_	_	_	_	_	Entity=(c31)
+7-8	مرا	_	_	_	_	_	_	_	_
 7	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	11	obj	11:obj	Entity=(c31)
 8	را	را	ADP	POSTP	_	7	case	7:case	_
 9	به	به	ADP	PREP	_	10	case	10:case	_
@@ -6606,7 +6606,7 @@
 12	،	،	PUNCT	PUNC	_	11	punct	11:punct	_
 13	زود	زود	ADJ	ADJ_AJP	_	18	advmod	18:advmod	_
 14	به	به	ADP	PREP	_	15	case	15:case	_
-15-16	گلش	_	_	_	_	_	_	_	Entity=(c68)
+15-16	گلش	_	_	_	_	_	_	_	_
 15	گل	گل	NOUN	N_IANM	Number=Sing	17	obl:arg	17:obl:arg	Entity=(c68
 16	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod	Entity=(c31)c68)
 17	بدگمان	بدگمان	ADJ	ADJ_AJP	_	18	xcomp	18:xcomp	_
@@ -6718,7 +6718,7 @@
 10	بود	بود	AUX	AUX	Number=Sing|Person=3|Tense=Past	9	aux	9:aux	_
 11	،	،	PUNCT	PUNC	_	9	punct	9:punct	_
 12	می‌بایست	بایست	AUX	V_MODL	_	17	aux	17:aux	_
-13-14	مرا	_	_	_	_	_	_	_	Entity=(c31)
+13-14	مرا	_	_	_	_	_	_	_	_
 13	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	17	obj	17:obj	Entity=(c31)
 14	را	را	ADP	POSTP	_	13	case	13:case	_
 15	به	به	ADP	PREP	_	16	case	16:case	_
@@ -6776,7 +6776,7 @@
 # text = او دماغ مرا معطر می‌کرد و به دلم روشنی می‌بخشید .
 1	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(c68)
 2	دماغ	دماغ	NOUN	N_IANM	Number=Sing	6	obj	6:obj	_
-3-4	مرا	_	_	_	_	_	_	_	Entity=(c31)
+3-4	مرا	_	_	_	_	_	_	_	_
 3	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	Entity=(c31)
 4	را	را	ADP	POSTP	_	2	case	2:case	_
 5	معطر	معطر	ADJ	ADJ_AJP	_	6	xcomp	6:xcomp	_
@@ -6884,7 +6884,7 @@
 2	روز	روز	NOUN	N_IANM	Number=Sing	1	nmod	1:nmod	_
 3	حرکت	حرکت	NOUN	N_IANM	Number=Sing	2	nmod	2:nmod	_
 4	،	،	PUNCT	PUNC	_	3	punct	3:punct	_
-5-6	سیاره‌اش	_	_	_	_	_	_	_	Entity=(c29)
+5-6	سیاره‌اش	_	_	_	_	_	_	_	_
 5	سیاره‌	سیاره	NOUN	N_IANM	Number=Sing	10	obj	10:obj	Entity=(c29
 6	اش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	Entity=(c31)c29)
 7	را	را	ADP	POSTP	_	5	case	5:case	_
@@ -6945,7 +6945,7 @@
 1	ولی	ولی	CCONJ	CONJ	_	3	obl	3:obl	_
 2	به	به	ADP	PREP	_	3	case	3:case	_
 3	قول	قول	NOUN	N_IANM	Number=Sing	0	root	0:root	_
-4-5	خودش	_	_	_	_	_	_	_	Entity=(c31)
+4-5	خودش	_	_	_	_	_	_	_	_
 4	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 5	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod	Entity=(c31)
 6	:	:	PUNCT	PUNC	_	10	punct	10:punct	_
@@ -7016,7 +7016,7 @@
 12	یم	هست	VERB	AUX	Number=Plur|Person=1	0	root	0:root	_
 13	که	که	SCONJ	SUBR	_	14	mark	14:mark	_
 14	بتوانیم	توانست	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	11	acl	11:acl	_
-15-16	آتشفشانهایمان	_	_	_	_	_	_	_	Entity=(c119)
+15-16	آتشفشانهایمان	_	_	_	_	_	_	_	_
 15	آتشفشانها	آتشفشان	NOUN	N_IANM	Number=Plur	19	obj	19:obj	Entity=(c119
 16	یمان	ما	PRON	PR_JOPER	Number=Plur|Person=1|PronType=Prs	15	nmod	15:nmod	Entity=c119)
 17	را	را	ADP	POSTP	_	15	case	15:case	_
@@ -7095,7 +7095,7 @@
 3	برای	برای	ADP	PREP	_	5	case	5:case	_
 4	آخرین	آخرین	ADJ	PRENUM	_	5	amod	5:amod	_
 5	بار	بار	NOUN	N_IANM	Number=Sing	10	obl	10:obl	_
-6-7	گلش	_	_	_	_	_	_	_	Entity=(c68)
+6-7	گلش	_	_	_	_	_	_	_	_
 6	گل	گل	NOUN	N_IANM	Number=Sing	10	obj	10:obj	Entity=(c68
 7	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	Entity=(c31)c68)
 8	را	را	ADP	POSTP	_	6	case	6:case	_
@@ -7128,7 +7128,7 @@
 # sent_id = 448
 # text = به گلش گفت : خداحافظ !
 1	به	به	ADP	PREP	_	2	case	2:case	_
-2-3	گلش	_	_	_	_	_	_	_	Entity=(c68)
+2-3	گلش	_	_	_	_	_	_	_	_
 2	گل	گل	NOUN	N_IANM	Number=Sing	4	obl:arg	4:obl:arg	Entity=(c68
 3	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	Entity=(c31)c68)
 4	گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
@@ -7353,7 +7353,7 @@
 # text = آخر من گلم .
 1	آخر	آخر	NOUN	N_IANM	Number=Sing	4	xcomp	4:xcomp	_
 2	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	Entity=(c68)
-3-4	گلم	_	_	_	_	_	_	_	Entity=(c68)
+3-4	گلم	_	_	_	_	_	_	_	_
 3	گل	گل	NOUN	N_IANM	Number=Sing	4	xcomp	4:xcomp	Entity=(c68)
 4	م	هست	VERB	AUX	Number=Sing|Person=1	0	root	0:root	_
 5	.	.	PUNCT	PUNC	_	4	punct	4:punct	SpacesAfter=\n
@@ -7626,7 +7626,7 @@
 7	:	:	PUNCT	PUNC	_	12	punct	12:punct	_
 8	از	از	ADP	PREP	_	9	case	9:case	_
 9	کجا	کجا	PRON	PR_INTG	_	12	obl	12:obl	_
-10-11	مرا	_	_	_	_	_	_	_	Entity=(c31)
+10-11	مرا	_	_	_	_	_	_	_	_
 10	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	12	obj	12:obj	Entity=(c31)
 11	را	را	ADP	POSTP	_	10	case	10:case	_
 12	می‌شناسد	شناخت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	6	ccomp	6:ccomp	_
@@ -7762,7 +7762,7 @@
 # sent_id = 495
 # text = دست خودم نیست .
 1	دست	دست	NOUN	N_IANM	Number=Sing	4	xcomp	4:xcomp	_
-2-3	خودم	_	_	_	_	_	_	_	Entity=(c31)
+2-3	خودم	_	_	_	_	_	_	_	_
 2	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	_
 3	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	Entity=(c31)
 4	نیست	هست	VERB	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	0:root	_
@@ -8322,7 +8322,7 @@
 36	هرگز	هرگز	ADV	ADV_SADV	_	37	advmod	37:advmod	_
 37	مجبور	مجبور	ADJ	ADJ_AJP	_	33	advcl	33:advcl	_
 38	باشد	بود	AUX	AUX	Number=Sing|Person=3	37	cop	37:cop	_
-39-40	صندلیش	_	_	_	_	_	_	_	Entity=(c1000)
+39-40	صندلیش	_	_	_	_	_	_	_	_
 39	صندلی	صندلی	NOUN	N_IANM	Number=Sing	43	obj	43:obj	Entity=(c1000
 40	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	39	nmod	39:nmod	Entity=(c31)c1000)
 41	را	را	ADP	POSTP	_	39	case	39:case	_
@@ -8418,7 +8418,7 @@
 30	آن	آن	DET	PREM_DEMAJ	_	31	det	31:det	Entity=(c1017
 31	سردار	سردار	NOUN	N_ANM	Number=Sing	36	nsubj	36:nsubj	Entity=c1017)
 32	فرمان	فرمان	NOUN	N_IANM	Number=Sing	36	obj	36:obj	_
-33-34	مرا	_	_	_	_	_	_	_	Entity=(c113)
+33-34	مرا	_	_	_	_	_	_	_	_
 33	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	32	nmod	32:nmod	Entity=(c113)
 34	را	را	ADP	POSTP	_	32	case	32:case	_
 35	اجرا	اجرا	NOUN	N_IANM	Number=Sing	36	compound:lvc	36:compound:lvc	_
@@ -8687,7 +8687,7 @@
 2.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	2:nsubj	Entity=(c31)
 3	که	که	SCONJ	SUBR	_	1	csubj	1:csubj	_
 4	غروب	غروب	NOUN	N_IANM	Number=Sing	8	obj	8:obj	_
-5-6	خورشیدش	_	_	_	_	_	_	_	Entity=(c38)
+5-6	خورشیدش	_	_	_	_	_	_	_	_
 5	خورشید	خورشید	NOUN	N_IANM	Number=Sing	4	nmod	4:nmod	Entity=(c38
 6	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	Entity=(c31)c38)
 7	را	را	ADP	POSTP	_	4	case	4:case	_
@@ -8842,7 +8842,7 @@
 1	و	و	CCONJ	CONJ	_	7	obl	7:obl	_
 2	پیاده‌روی	پیاده‌روی	NOUN	N_IANM	Number=Sing	7	nsubj	7:nsubj	_
 3	هم	هم	ADV	ADV_SADV	_	2	dep	2:dep	_
-4-5	مرا	_	_	_	_	_	_	_	Entity=(c113)
+4-5	مرا	_	_	_	_	_	_	_	_
 4	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	7	obj	7:obj	Entity=(c113)
 5	را	را	ADP	POSTP	_	4	case	4:case	_
 6	خسته	خسته	ADJ	ADJ_AJP	_	7	xcomp	7:xcomp	_
@@ -8896,7 +8896,7 @@
 5	:	:	PUNCT	PUNC	_	13	punct	13:punct	_
 6	پس	پس	ADV	ADV_SADV	_	13	advmod	13:advmod	_
 7	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	13	nsubj	13:nsubj	Entity=(c31)
-8-9	خودت	_	_	_	_	_	_	_	Entity=(c31)
+8-9	خودت	_	_	_	_	_	_	_	_
 8	خود	خودت	PRON	PR_UCREFX	Number=Sing|Person=2|PronType=Prs	13	obj	13:obj	Entity=(c31
 9	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	8	nmod	8:nmod	Entity=c31)
 10	را	را	ADP	POSTP	_	8	case	8:case	_
@@ -8930,7 +8930,7 @@
 2	اگر	اگر	SCONJ	SUBR	_	3	mark	3:mark	_
 3	توانستی	توانست	VERB	V_ACT	Number=Sing|Person=2|Tense=Past|Voice=Act	13	advcl	13:advcl	_
 4	درباره	درباره	ADP	PREP	_	5	case	5:case	_
-5-6	خودت	_	_	_	_	_	_	_	Entity=(c31)
+5-6	خودت	_	_	_	_	_	_	_	_
 5	خود	خودت	PRON	PR_UCREFX	Number=Sing|Person=2|PronType=Prs	9	obl:arg	9:obl:arg	Entity=(c31
 6	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	5	nmod	5:nmod	Entity=c31)
 7	درست	درست	ADJ	ADJ_AJP	_	9	advmod	9:advmod	_
@@ -9955,7 +9955,7 @@
 
 # sent_id = 652
 # text = سیگارتان خاموش شده است .
-1-2	سیگارتان	_	_	_	_	_	_	_	Entity=(c1003)
+1-2	سیگارتان	_	_	_	_	_	_	_	_
 1	سیگار	سیگار	NOUN	N_IANM	Number=Sing	4	nsubj	4:nsubj	Entity=(c1003
 2	تان	شما	PRON	PR_JOPER	Number=Plur|Person=2|PronType=Prs	1	nmod	1:nmod	Entity=(c6)c1003)
 3	خاموش	خاموش	ADJ	ADJ_AJP	_	4	xcomp	4:xcomp	_
@@ -10031,7 +10031,7 @@
 1	وقت	وقت	NOUN	N_IANM	Number=Sing	2	obj	2:obj	_
 2	ندارم	داشت	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Tense=Pres|Voice=Act	0	root	0:root	_
 2.1	pro	PRO	PRON	_	Number=Sing|Person=1|PronType=Prs|Zero=Yes	_	_	2:nsubj	Entity=(c6)
-3-4	سیگارم	_	_	_	_	_	_	_	Entity=(c1003)
+3-4	سیگارم	_	_	_	_	_	_	_	_
 3	سیگار	سیگار	NOUN	N_IANM	Number=Sing	8	obj	8:obj	Entity=(c1003
 4	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	Entity=(c6)c1003)
 5	را	را	ADP	POSTP	_	3	case	3:case	_
@@ -10957,7 +10957,7 @@
 17.1	pro	PRO	PRON	_	Number=Sing|Person=1|PronType=Prs|Zero=Yes	_	_	17:nsubj|22:nsubj	Entity=(c31)
 18	و	و	CCONJ	CONJ	_	22	cc	22:cc	_
 19	با	با	ADP	PREP	_	20	case	20:case	_
-20-21	خودم	_	_	_	_	_	_	_	Entity=(c31)
+20-21	خودم	_	_	_	_	_	_	_	_
 20	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	22	obl:arg	22:obl:arg	Entity=(c31
 21	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	20	nmod	20:nmod	Entity=c31)
 22	ببرم	برد	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	17	conj	17:conj	_
@@ -10972,7 +10972,7 @@
 4	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 5	،	،	PUNCT	PUNC	_	3	punct	3:punct	_
 6	می‌توانم	توانست	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	_
-7-8	گلم	_	_	_	_	_	_	_	Entity=(c1020)
+7-8	گلم	_	_	_	_	_	_	_	_
 7	گل	گل	NOUN	N_IANM	Number=Sing	10	obj	10:obj	Entity=(c1020
 8	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	7	nmod	7:nmod	Entity=(c31)c1020)
 9	را	را	ADP	POSTP	_	7	case	7:case	_
@@ -10980,7 +10980,7 @@
 10.1	pro	PRO	PRON	_	Number=Sing|Person=1|PronType=Prs|Zero=Yes	_	_	9:nsubj|14:nsubj	Entity=(c31)
 11	و	و	CCONJ	CONJ	_	15	cc	15:cc	_
 12	با	با	ADP	PREP	_	13	case	13:case	_
-13-14	خودم	_	_	_	_	_	_	_	Entity=(c31)
+13-14	خودم	_	_	_	_	_	_	_	_
 13	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	15	obl:arg	15:obl:arg	Entity=(c31
 14	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	13	nmod	13:nmod	Entity=c31)
 15	ببرم	برد	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	10	conj	10:conj	_
@@ -11182,7 +11182,7 @@
 9	و	و	CCONJ	CONJ	_	10	cc	10:cc	_
 10	هم	هم	ADV	ADV_SADV	_	5	conj	5:conj	_
 11	برای	برای	ADP	PREP	_	10	case	10:case	_
-12-13	گلم	_	_	_	_	_	_	_	Entity=(c68)
+12-13	گلم	_	_	_	_	_	_	_	_
 12	گل	گل	NOUN	N_IANM	Number=Sing	10	nmod	10:nmod	Entity=(c68
 13	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	12	nmod	12:nmod	Entity=(c31)c68)
 14	فایده	فایده	NOUN	N_IANM	Number=Sing	15	obj	15:obj	_
@@ -11374,7 +11374,7 @@
 # sent_id = 762
 # text = وقتی فانوسش را روشن می‌کند مثل این است که ستاره‌ای دیگر یا گلی به وجود می‌آورد .
 1	وقتی	وقت	NOUN	N_IANM	Number=Sing	8	obl	8:obl	_
-2-3	فانوسش	_	_	_	_	_	_	_	Entity=(c27)
+2-3	فانوسش	_	_	_	_	_	_	_	_
 2	فانوس	فانوس	NOUN	N_IANM	Number=Sing	6	obj	6:obj	Entity=(c27
 3	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	Entity=(c83)c27)
 4	را	را	ADP	POSTP	_	2	case	2:case	_
@@ -11399,7 +11399,7 @@
 # text = و وقتی فانوسش را خاموش می‌کند مثل این است که آن گل یا آن ستاره را خواب می‌کند .
 1	و	و	CCONJ	CONJ	_	9	obl	9:obl	_
 2	وقتی	وقت	NOUN	N_IANM	Number=Sing	9	obl	9:obl	_
-3-4	فانوسش	_	_	_	_	_	_	_	Entity=(c27)
+3-4	فانوسش	_	_	_	_	_	_	_	_
 3	فانوس	فانوس	NOUN	N_IANM	Number=Sing	7	obj	7:obj	Entity=(c27
 4	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	Entity=(c83)c27)
 5	را	را	ADP	POSTP	_	3	case	3:case	_
@@ -11474,7 +11474,7 @@
 1	آقا	آقا	NOUN	N_ANM	Number=Sing	8	vocative	8:vocative	Entity=(c83)
 2	،	،	PUNCT	PUNC	_	1	punct	1:punct	_
 3	چرا	چرا	ADV	ADV_SADV	_	8	advmod	8:advmod	_
-4-5	فانوست	_	_	_	_	_	_	_	Entity=(c27)
+4-5	فانوست	_	_	_	_	_	_	_	_
 4	فانوس	فانوس	NOUN	N_IANM	Number=Sing	7	obj	7:obj	Entity=(c27
 5	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	Entity=(c83)c27)
 6	را	را	ADP	POSTP	_	4	case	4:case	_
@@ -11515,7 +11515,7 @@
 3	این	این	PRON	PR_DEMON	Number=Sing	2	nmod	2:nmod	_
 4	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	2:cop	_
 5	که	که	SCONJ	SUBR	_	10	mark	10:mark	_
-6-7	فانوسم	_	_	_	_	_	_	_	Entity=(c27)
+6-7	فانوسم	_	_	_	_	_	_	_	_
 6	فانوس	فانوس	NOUN	N_IANM	Number=Sing	10	obj	10:obj	Entity=(c27
 7	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	6	nmod	6:nmod	Entity=(c83)c27)
 8	را	را	ADP	POSTP	_	7	case	7:case	_
@@ -11595,7 +11595,7 @@
 # text = و باز فانوسش را خاموش کرد .
 1	و	و	CCONJ	CONJ	_	7	obl	7:obl	_
 2	باز	باز	ADV	ADV_SADV	_	7	advmod	7:advmod	_
-3-4	فانوسش	_	_	_	_	_	_	_	Entity=(c27)
+3-4	فانوسش	_	_	_	_	_	_	_	_
 3	فانوس	فانوس	NOUN	N_IANM	Number=Sing	7	obj	7:obj	Entity=(c27
 4	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	Entity=(c83)c27)
 5	را	را	ADP	POSTP	_	3	case	3:case	_
@@ -11863,7 +11863,7 @@
 # text = و دوباره فانوسش را روشن کرد .
 1	و	و	CCONJ	CONJ	_	7	obl	7:obl	_
 2	دوباره	دوباره	ADJ	ADJ_AJP	_	7	advmod	7:advmod	_
-3-4	فانوسش	_	_	_	_	_	_	_	Entity=(c27)
+3-4	فانوسش	_	_	_	_	_	_	_	_
 3	فانوس	فانوس	NOUN	N_IANM	Number=Sing	7	obj	7:obj	Entity=(c27
 4	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	Entity=(c83)c27)
 5	را	را	ADP	POSTP	_	3	case	3:case	_
@@ -11907,14 +11907,14 @@
 4	افتاد	افتاد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	4:nsubj|16:nsubj	Entity=(c31)
 5	که	که	SCONJ	SUBR	_	15	mark	15:mark	_
-6-7	خودش	_	_	_	_	_	_	_	Entity=(c31)
+6-7	خودش	_	_	_	_	_	_	_	_
 6	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	Entity=(c31
 7	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	Entity=c31)
 8	سابقا	سابقا	ADV	ADV_SADV	_	15	advmod	15:advmod	_
 9	با	با	ADP	PREP	_	11	case	11:case	_
 10	حرکت	حرکت	NOUN	N_IANM	Number=Sing	11	compound:lvc	11:compound:lvc	_
 11	دادن	دادن	NOUN	N_IANM	Number=Sing	15	obl	15:obl	_
-12-13	صندلیش	_	_	_	_	_	_	_	Entity=(c1000)
+12-13	صندلیش	_	_	_	_	_	_	_	_
 12	صندلی	صندلی	NOUN	N_IANM	Number=Sing	11	nmod	11:nmod	Entity=(c1000
 13	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	12	nmod	12:nmod	Entity=(c31)c1000)
 14	تماشا	تماشا	NOUN	N_IANM	Number=Sing	15	compound:lvc	15:compound:lvc	_
@@ -11925,7 +11925,7 @@
 18	تا	تا	SCONJ	SUBR	_	21	mark	21:mark	_
 19	کمکی	کمک	NOUN	N_IANM	Number=Sing	23	compound:lvc	23:compound:lvc	_
 20	به	به	ADP	PREP	_	19	case	19:case	_
-21-22	دوستش	_	_	_	_	_	_	_	Entity=(c83)
+21-22	دوستش	_	_	_	_	_	_	_	_
 21	دوست	دوست	NOUN	N_IANM	Number=Sing	20	nmod	20:nmod	Entity=(c83
 22	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	21	nmod	21:nmod	Entity=(c31)c83)
 23	بکند	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	17	ccomp	17:ccomp	_
@@ -12223,7 +12223,7 @@
 1	ولی	ولی	CCONJ	CONJ	_	2	obl	2:obl	_
 2	حیف	حیف	PROPN	PSUS	Number=Sing	0	root	0:root	_
 3	که	که	SCONJ	SUBR	_	6	mark	6:mark	_
-4-5	ستاره‌اش	_	_	_	_	_	_	_	Entity=(c96)
+4-5	ستاره‌اش	_	_	_	_	_	_	_	_
 4	ستاره‌	ستاره	NOUN	N_IANM	Number=Sing	6	nsubj	6:nsubj	Entity=(c96
 5	اش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod	Entity=(c83)c96)
 6	به‌راستی	به‌راستی	NOUN	N_IANM	Number=Sing	2	acl	2:acl	_
@@ -13331,7 +13331,7 @@
 # sent_id = 910
 # text = و مرا ببین که او را تنها در خانه گذاشته‌ام !
 1	و	و	CCONJ	CONJ	_	4	obl	4:obl	_
-2-3	مرا	_	_	_	_	_	_	_	Entity=(c31)
+2-3	مرا	_	_	_	_	_	_	_	_
 2	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	4	obj	4:obj	Entity=(c31)
 3	را	را	ADP	POSTP	_	2	case	2:case	_
 4	ببین	دید	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -13691,7 +13691,7 @@
 5	قطب	قطب	PROPN	N_IANM	Number=Sing	4	flat:name	4:flat:name	_
 6	شمال	شمال	PROPN	N_IANM	Number=Sing	4	flat:name	4:flat:name	Entity=c87)
 7	و	و	CCONJ	CONJ	_	8	cc	8:cc	_
-8-9	همکارش	_	_	_	_	_	_	_	Entity=(c111)
+8-9	همکارش	_	_	_	_	_	_	_	_
 8	همکار	همکار	NOUN	N_IANM	Number=Sing	2	conj	2:conj	Entity=(c111
 9	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod	Entity=(c87)c111)
 10	افروزنده	افروزنده	NOUN	N_ANM	Number=Sing	8	appos	8:appos	Entity=(c111
@@ -14447,7 +14447,7 @@
 4	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	3	nmod	3:nmod	Entity=(c31)
 5	خیلی	خیلی	ADV	ADV_SADV	_	10	advmod	10:advmod	_
 6	برای	برای	ADP	PREP	_	7	case	7:case	_
-7-8	سیاره‌ات	_	_	_	_	_	_	_	Entity=(c29)
+7-8	سیاره‌ات	_	_	_	_	_	_	_	_
 7	سیاره‌	سیاره	NOUN	N_IANM	Number=Sing	10	obl	10:obl	Entity=(c29
 8	ات	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	7	nmod	7:nmod	Entity=(c31)c29)
 9	تنگ	تنگ	ADJ	ADJ_AJP	_	10	xcomp	10:xcomp	_
@@ -15095,7 +15095,7 @@
 
 # sent_id = 1035
 # text = گلش به او گفته بود که در عالم بی‌همتا است .
-1-2	گلش	_	_	_	_	_	_	_	Entity=(c68)
+1-2	گلش	_	_	_	_	_	_	_	_
 1	گل	گل	NOUN	N_ANM	Number=Sing	5	nsubj	5:nsubj	Entity=(c68
 2	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	1	nmod	1:nmod	Entity=(c31)c68)
 3	به	به	ADP	PREP	_	4	case	4:case	_
@@ -15417,7 +15417,7 @@
 
 # sent_id = 1052
 # text = مرا اهلی نکرده‌اند .
-1-2	مرا	_	_	_	_	_	_	_	Entity=(c19)
+1-2	مرا	_	_	_	_	_	_	_	_
 1	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	4	obj	4:obj	Entity=(c19)
 2	را	را	ADP	POSTP	_	1	case	1:case	_
 3	اهلی	اهلی	ADJ	ADJ_AJP	_	4	xcomp	4:xcomp	_
@@ -15679,7 +15679,7 @@
 1	ولی	ولی	CCONJ	CONJ	_	14	obl	14:obl	_
 2	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	14	nsubj	14:nsubj	Entity=(c31)
 3	اگر	اگر	SCONJ	SUBR	_	7	mark	7:mark	_
-4-5	مرا	_	_	_	_	_	_	_	Entity=(c19)
+4-5	مرا	_	_	_	_	_	_	_	_
 4	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	7	obj	7:obj	Entity=(c19)
 5	را	را	ADP	POSTP	_	4	case	4:case	_
 6	اهلی	اهلی	ADJ	ADJ_AJP	_	7	xcomp	7:xcomp	_
@@ -15748,7 +15748,7 @@
 4	که	که	SCONJ	SUBR	_	10	mark	10:mark	_
 5	آن	آن	DET	PREM_DEMAJ	_	6	det	6:det	Entity=(c68
 6	گل	گل	NOUN	N_IANM	Number=Sing	10	nsubj	10:nsubj	Entity=c68)
-7-8	مرا	_	_	_	_	_	_	_	Entity=(c31)
+7-8	مرا	_	_	_	_	_	_	_	_
 7	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	10	obj	10:obj	Entity=(c31)
 8	را	را	ADP	POSTP	_	7	case	7:case	_
 9	اهلی	اهلی	ADJ	ADJ_AJP	_	10	xcomp	10:xcomp	_
@@ -15910,7 +15910,7 @@
 5	می‌کنم	کرد	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	_
 6	و	و	CCONJ	CONJ	_	5	dep	5:dep	_
 7	آدمها	آدم	NOUN	N_IANM	Number=Plur	5	obj	5:obj	Entity=(c62)
-8-9	مرا	_	_	_	_	_	_	_	Entity=(c19)
+8-9	مرا	_	_	_	_	_	_	_	_
 8	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	7	nmod	7:nmod	Entity=(c19)
 9	را	را	ADP	POSTP	_	7	case	7:case	_
 10	.	.	PUNCT	PUNC	_	5	punct	5:punct	SpacesAfter=\n
@@ -15950,7 +15950,7 @@
 1	ولی	ولی	CCONJ	CONJ	_	15	obl	15:obl	_
 2	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	15	nsubj	15:nsubj	Entity=(c31)
 3	اگر	اگر	SCONJ	SUBR	_	7	mark	7:mark	_
-4-5	مرا	_	_	_	_	_	_	_	Entity=(c19)
+4-5	مرا	_	_	_	_	_	_	_	_
 4	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	7	obj	7:obj	Entity=(c19)
 5	را	را	ADP	POSTP	_	4	case	4:case	_
 6	اهلی	اهلی	ADJ	ADJ_AJP	_	7	xcomp	7:xcomp	_
@@ -15989,7 +15989,7 @@
 1	صدای	صدا	NOUN	N_IANM	Number=Sing	10	nsubj	10:nsubj	_
 2	پاهای	پا	NOUN	N_IANM	Number=Plur	1	nmod	1:nmod	_
 3	دیگر	دیگر	ADJ	ADJ_AJP	_	2	amod	2:amod	_
-4-5	مرا	_	_	_	_	_	_	_	Entity=(c19)
+4-5	مرا	_	_	_	_	_	_	_	_
 4	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	10	obj	10:obj	Entity=(c19)
 5	را	را	ADP	POSTP	_	4	case	4:case	_
 6	به	به	ADP	PREP	_	7	case	7:case	_
@@ -16007,7 +16007,7 @@
 4	همچون	همچون	ADP	PREP	_	5	case	5:case	_
 5	نغمه	نغمه	NOUN	N_IANM	Number=Sing	13	obl	13:obl	_
 6	موسیقی	موسیقی	NOUN	N_IANM	Number=Sing	13	obj	13:obj	_
-7-8	مرا	_	_	_	_	_	_	_	Entity=(c19)
+7-8	مرا	_	_	_	_	_	_	_	_
 7	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	6	nmod	6:nmod	Entity=(c19)
 8	را	را	ADP	POSTP	_	6	case	6:case	_
 9	از	از	ADP	PREP	_	10	case	10:case	_
@@ -16055,7 +16055,7 @@
 # sent_id = 1107
 # text = گندم‌زارها مرا به یاد هیچ چیز نمی‌اندازند
 1	گندم‌زارها	گندم‌زار	NOUN	N_ANM	Number=Plur	8	nsubj	8:nsubj	Entity=(c17)
-2-3	مرا	_	_	_	_	_	_	_	Entity=(c19)
+2-3	مرا	_	_	_	_	_	_	_	_
 2	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	8	obj	8:obj	Entity=(c19)
 3	را	را	ADP	POSTP	_	2	case	2:case	_
 4	به	به	ADP	PREP	_	5	case	5:case	_
@@ -16091,7 +16091,7 @@
 5	آن	آن	DET	PREM_DEMAJ	_	6	det	6:det	_
 6	وقت	وقت	NOUN	N_IANM	Number=Sing	4	obl	4:obl	_
 7	که	که	SCONJ	SUBR	_	11	mark	11:mark	_
-8-9	مرا	_	_	_	_	_	_	_	Entity=(c19)
+8-9	مرا	_	_	_	_	_	_	_	_
 8	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	11	obj	11:obj	Entity=(c19)
 9	را	را	ADP	POSTP	_	8	case	8:case	_
 10	اهلی	اهلی	ADJ	ADJ_AJP	_	11	xcomp	11:xcomp	_
@@ -16109,7 +16109,7 @@
 6-7	طلاست	_	_	_	_	_	_	_	_
 6	طلا	طلا	NOUN	N_IANM	Number=Sing	5	nmod	5:nmod	_
 7	ست	است	AUX	AUX	Number=Sing|Person=3	5	cop	5:cop	_
-8-9	مرا	_	_	_	_	_	_	_	Entity=(c19)
+8-9	مرا	_	_	_	_	_	_	_	_
 8	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	14	obj	14:obj	Entity=(c19)
 9	را	را	ADP	POSTP	_	8	case	8:case	_
 10	به	به	ADP	PREP	_	11	case	11:case	_
@@ -16163,7 +16163,7 @@
 6	.	.	PUNCT	PUNC	_	5	punct	5:punct	SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	12	punct	12:punct	SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	12	punct	12:punct	_
-9-10	مرا	_	_	_	_	_	_	_	Entity=(c19)
+9-10	مرا	_	_	_	_	_	_	_	_
 9	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	12	obj	12:obj	Entity=(c19)
 10	را	را	ADP	POSTP	_	9	case	9:case	_
 11	اهلی	اهلی	ADJ	ADJ_AJP	_	12	xcomp	12:xcomp	_
@@ -16273,7 +16273,7 @@
 2	اگر	اگر	SCONJ	SUBR	_	4	mark	4:mark	_
 3	دوست	دوست	NOUN	N_IANM	Number=Sing	4	compound:lvc	4:compound:lvc	_
 4	می‌خواهی	خواست	VERB	V_ACT	Number=Sing|Person=2|Tense=Pres|Voice=Act	8	advcl	8:advcl	_
-5-6	مرا	_	_	_	_	_	_	_	Entity=(c19)
+5-6	مرا	_	_	_	_	_	_	_	_
 5	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	8	obj	8:obj	Entity=(c19)
 6	را	را	ADP	POSTP	_	5	case	5:case	_
 7	اهلی	اهلی	ADJ	ADJ_AJP	_	8	xcomp	8:xcomp	_
@@ -16664,7 +16664,7 @@
 7	نمی‌خواستم	خواست	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Voice=Act	1	acl	1:acl	_
 8	.	.	PUNCT	PUNC	_	7	punct	7:punct	_
 9	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	12	nsubj	12:nsubj	Entity=(c19)
-10-11	خودت	_	_	_	_	_	_	_	Entity=(c19)
+10-11	خودت	_	_	_	_	_	_	_	_
 10	خود	خودت	PRON	PR_UCREFX	Number=Sing|Person=2|PronType=Prs	9	appos	9:appos	Entity=(c19
 11	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	10	nmod	10:nmod	Entity=c19)
 12	می‌خواستی	خواست	VERB	V_ACT	Number=Sing|Person=2|Voice=Act	0	root	0:root	_
@@ -17811,7 +17811,7 @@
 3	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	4	obl:arg	4:obl:arg	Entity=(c79)
 4	گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 5	:	:	PUNCT	PUNC	_	8	punct	8:punct	_
-6-7	دوستم	_	_	_	_	_	_	_	Entity=(c19)
+6-7	دوستم	_	_	_	_	_	_	_	_
 6	دوست	دوست	NOUN	N_ANM	Number=Sing	8	nsubj	8:nsubj	Entity=(c19
 7	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	6	nmod	6:nmod	Entity=(c31)c19)
 8	روباه	روباه	NOUN	N_ANM	Number=Sing	4	ccomp	4:ccomp	Entity=(c19)
@@ -17861,7 +17861,7 @@
 # text = او استدلال مرا نفهمید و در جواب گفت : چه خوب است که آدم حتی در دم مرگ فراموش نکند که دوستی داشته است .
 1	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	Entity=(c31)
 2	استدلال	استدلال	NOUN	N_IANM	Number=Sing	5	obj	5:obj	_
-3-4	مرا	_	_	_	_	_	_	_	Entity=(c79)
+3-4	مرا	_	_	_	_	_	_	_	_
 3	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	Entity=(c79)
 4	را	را	ADP	POSTP	_	2	case	2:case	_
 5	نفهمید	فهمید	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Act	0	root	0:root	_
@@ -17958,7 +17958,7 @@
 8	و	و	CCONJ	CONJ	_	13	cc	13:cc	_
 9	جواب	جواب	NOUN	N_IANM	Number=Sing	13	obj	13:obj	_
 10	فکر	فکر	NOUN	N_IANM	Number=Sing	9	nmod	9:nmod	_
-11-12	مرا	_	_	_	_	_	_	_	Entity=(c79)
+11-12	مرا	_	_	_	_	_	_	_	_
 11	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	10	nmod	10:nmod	Entity=(c79)
 12	را	را	ADP	POSTP	_	9	case	9:case	_
 13	داد	داد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	7	conj	7:conj	_
@@ -18560,7 +18560,7 @@
 26.1	pro	PRO	PRON	_	Number=Sing|Person=1|PronType=Prs|Zero=Yes	_	_	26:nsubj|31:nsubj	Entity=(c79)
 27	و	و	CCONJ	CONJ	_	31	cc	31:cc	_
 28	با	با	ADP	PREP	_	29	case	29:case	_
-29-30	خودم	_	_	_	_	_	_	_	Entity=(c79)
+29-30	خودم	_	_	_	_	_	_	_	_
 29	خود	خودم	PRON	PR_UCREFX	Number=Sing|Person=1|PronType=Prs	31	obl	31:obl	Entity=(c79
 30	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	29	nmod	29:nmod	Entity=c79)
 31	می‌گفتم	گفت	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	26	conj	26:conj	_
@@ -18613,7 +18613,7 @@
 22	شاهزاده	شاهزاده	PROPN	IDEN	Number=Sing	20	nmod	20:nmod	_
 23	کوچولوی	کوچولوی	PROPN	N_ANM	Number=Sing	22	flat:name	22:flat:name	_
 24	خواب‌رفته	خواب‌رفته	ADJ	ADJ_AJP	_	22	amod	22:amod	Entity=c31)
-25-26	مرا	_	_	_	_	_	_	_	Entity=(c79)
+25-26	مرا	_	_	_	_	_	_	_	_
 25	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	32	obj	32:obj	Entity=(c79)
 26	را	را	ADP	POSTP	_	25	case	25:case	_
 27	تا	تا	ADP	PREP	_	28	case	28:case	_
@@ -19355,7 +19355,7 @@
 # sent_id = 1322
 # text = - خودت می‌دانی ... پوزه‌بندی برای گوسفندم ...
 1	-	-	PUNCT	PUNC	_	4	punct	4:punct	_
-2-3	خودت	_	_	_	_	_	_	_	Entity=(c79)
+2-3	خودت	_	_	_	_	_	_	_	_
 2	خود	خودت	PRON	PR_UCREFX	Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	Entity=(c79
 3	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	Entity=c79)
 4	می‌دانی	دانست	VERB	V_ACT	Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	0:root	_
@@ -19430,7 +19430,7 @@
 
 # sent_id = 1327
 # text = مرا ببین که به تصویر درختان بائوبابم آن همه می‌نازیدم !
-1-2	مرا	_	_	_	_	_	_	_	Entity=(c79)
+1-2	مرا	_	_	_	_	_	_	_	_
 1	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	3	obj	3:obj	Entity=(c79)
 2	را	را	ADP	POSTP	_	1	case	1:case	_
 3	ببین	دید	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -19450,7 +19450,7 @@
 # sent_id = 1328
 # text = - روباهت هم ، چه عرض کنم ... گوشهایش ... به شاخ می‌ماند ... خیلی دراز است ...
 1	-	-	PUNCT	PUNC	_	2	punct	2:punct	_
-2-3	روباهت	_	_	_	_	_	_	_	Entity=(c75)
+2-3	روباهت	_	_	_	_	_	_	_	_
 2	روباه	روباه	NOUN	N_IANM	Number=Sing	8	obl	8:obl	Entity=(c75
 3	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	Entity=(c31)c75)
 4	هم	هم	ADV	ADV_SADV	_	2	dep	2:dep	_
@@ -19461,7 +19461,7 @@
 9	.	.	PUNCT	PUNC	_	8	punct	8:punct	SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	8	punct	8:punct	SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	8	punct	8:punct	_
-12-13	گوشهایش	_	_	_	_	_	_	_	Entity=(c60)
+12-13	گوشهایش	_	_	_	_	_	_	_	_
 12	گوشهای	گوش	NOUN	N_IANM	Number=Plur	19	nsubj	19:nsubj	Entity=(c60
 13	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	12	nmod	12:nmod	Entity=(c75)c60)
 14	.	.	PUNCT	PUNC	_	13	punct	13:punct	SpaceAfter=No
@@ -19851,7 +19851,7 @@
 2	برگردی	گشت	VERB	V_ACT	Number=Sing|Person=2|Voice=Act	0	root	0:root	_
 2.1	pro	PRO	PRON	_	Number=Sing|Person=2|PronType=Prs|Zero=Yes	_	_	2:nsubj	Entity=(c79)
 3	پیش	پیش	ADP	PREP	_	4	case	4:case	_
-4-5	هواپیمایت	_	_	_	_	_	_	_	Entity=(c22)
+4-5	هواپیمایت	_	_	_	_	_	_	_	_
 4	هواپیما	هواپیما	NOUN	N_IANM	Number=Sing	2	obl	2:obl	Entity=(c22
 5	یت	تو	PRON	PR_JOPER	Number=Sig|Person=2|PronType=Prs	4	nmod	4:nmod	Entity=(c79)c22)
 6	.	.	PUNCT	PUNC	_	2	punct	2:punct	SpacesAfter=\n
@@ -20459,7 +20459,7 @@
 9	اینکه	اینکه	NOUN	N_IANM	Number=Sing	7	obl:arg	7:obl:arg	_
 10	کسری	کسری	NOUN	N_ANM	Number=Sing	16	nsubj	16:nsubj	_
 11	لوازم	لوازم	NOUN	N_IANM	Number=Plur	16	obj	16:obj	_
-12-13	ماشینت	_	_	_	_	_	_	_	Entity=(c22)
+12-13	ماشینت	_	_	_	_	_	_	_	_
 12	ماشین	ماشین	NOUN	N_IANM	Number=Sing	11	nmod	11:nmod	Entity=(c22
 13	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	12	nmod	12:nmod	Entity=(c79)c22)
 14	را	را	ADP	POSTP	_	11	case	11:case	_
@@ -21793,7 +21793,7 @@
 # text = و دست مرا در دست گرفت .
 1	و	و	CCONJ	CONJ	_	7	obl	7:obl	_
 2	دست	دست	NOUN	N_IANM	Number=Sing	7	obj	7:obj	_
-3-4	مرا	_	_	_	_	_	_	_	Entity=(c79)
+3-4	مرا	_	_	_	_	_	_	_	_
 3	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	Entity=(c79)
 4	را	را	ADP	POSTP	_	2	case	2:case	_
 5	در	در	ADP	PREP	_	6	case	6:case	_
@@ -21941,7 +21941,7 @@
 4	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	4:nsubj	Entity=(c31)
 5	تا	تا	SCONJ	SUBR	_	9	mark	9:mark	_
-6-7	مرا	_	_	_	_	_	_	_	Entity=(c79)
+6-7	مرا	_	_	_	_	_	_	_	_
 6	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	9	obj	9:obj	Entity=(c79)
 7	را	را	ADP	POSTP	_	6	case	6:case	_
 8	قانع	قانع	ADJ	ADJ_AJP	_	9	xcomp	9:xcomp	_
@@ -22309,7 +22309,7 @@
 # text = رفقایی که مرا دوباره دیدند ، خوشحال شدند از اینکه باز زنده‌ام دیدند .
 1	رفقایی	رفقا	NOUN	N_ANM	Number=Plur	9	nsubj	9:nsubj	Entity=(c35)
 2	که	که	SCONJ	SUBR	_	6	mark	6:mark	_
-3-4	مرا	_	_	_	_	_	_	_	Entity=(c79)
+3-4	مرا	_	_	_	_	_	_	_	_
 3	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	6	obj	6:obj	Entity=(c79)
 4	را	را	ADP	POSTP	_	3	case	3:case	_
 5	دوباره	دوباره	ADJ	ADJ_AJP	_	6	advmod	6:advmod	_
@@ -22464,7 +22464,7 @@
 6	را	را	ADP	POSTP	_	5	case	5:case	_
 7	به	به	ADP	PREP	_	8	case	8:case	_
 8	دهان	دهان	NOUN	N_IANM	Number=Sing	11	obl:arg	11:obl:arg	_
-9-10	گوسفندش	_	_	_	_	_	_	_	Entity=(c58)
+9-10	گوسفندش	_	_	_	_	_	_	_	_
 9	گوسفند	گوسفند	NOUN	N_ANM	Number=Sing	8	nmod	8:nmod	Entity=(c58
 10	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod	Entity=(c31)c58)
 11	ببندد	بست	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	3	ccomp	3:ccomp	_
@@ -22528,7 +22528,7 @@
 3	کوچولو	کوچولو	ADJ	ADJ_AJP	_	2	amod	2:amod	Entity=c31)
 4	هر	هر	DET	PREM_AMBAJ	_	5	det	5:det	_
 5	شب	شب	NOUN	N_IANM	Number=Sing	13	obl	13:obl	_
-6-7	گلش	_	_	_	_	_	_	_	Entity=(c68)
+6-7	گلش	_	_	_	_	_	_	_	_
 6	گل	گل	NOUN	N_IANM	Number=Sing	13	obj	13:obj	Entity=(c68
 7	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	Entity=(c31)c68)
 8	را	را	ADP	POSTP	_	6	case	6:case	_
@@ -22539,7 +22539,7 @@
 13	می‌گذارد	گذاشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	0:root	_
 14	و	و	CCONJ	CONJ	_	21	cc	21:cc	_
 15	از	از	ADP	PREP	_	16	case	16:case	_
-16-17	گوسفندش	_	_	_	_	_	_	_	Entity=(c58)
+16-17	گوسفندش	_	_	_	_	_	_	_	_
 16	گوسفند	گوسفند	NOUN	N_ANM	Number=Sing	21	obl:arg	21:obl:arg	Entity=(c58
 17	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	16	nmod	16:nmod	Entity=(c31)c58)
 18	هم	هم	ADV	ADV_SADV	_	16	dep	16:dep	_
@@ -22602,7 +22602,7 @@
 8	بلورین	بلورین	PROPN	N_IANM	Number=Sing	7	nmod	7:nmod	Entity=c26)
 9	را	را	ADP	POSTP	_	7	case	7:case	_
 10	روی	روی	ADP	PREP	_	11	case	11:case	_
-11-12	گلش	_	_	_	_	_	_	_	Entity=(c68)
+11-12	گلش	_	_	_	_	_	_	_	_
 11	گل	گل	NOUN	N_IANM	Number=Sing	13	obl:arg	13:obl:arg	Entity=(c68
 12	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod	Entity=(c31)c68)
 13	بگذارد	گذارد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	5	ccomp	5:ccomp	_
@@ -22613,7 +22613,7 @@
 18	شب‌هنگام	شب‌هنگام	ADJ	ADJ_AJP	_	17	amod	17:amod	_
 19	بی‌صدا	بی‌صدا	ADJ	ADJ_AJP	_	24	advmod	24:advmod	_
 20	از	از	ADP	PREP	_	21	case	21:case	_
-21-22	جعبه‌اش	_	_	_	_	_	_	_	Entity=(c73)
+21-22	جعبه‌اش	_	_	_	_	_	_	_	_
 21	جعبه‌	جعبه	NOUN	N_IANM	Number=Sing	24	obl:arg	24:obl:arg	Entity=(c73
 22	اش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	21	nmod	21:nmod	Entity=(c58)c73)
 23	بیرون	بیرون	NOUN	N_IANM	Number=Sing	24	obl:arg	24:obl:arg	_
@@ -22890,7 +22890,7 @@
 11	می‌خندید	خندید	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	26	advcl	26:advcl	_
 12	،	،	PUNCT	PUNC	_	16	punct	16:punct	_
 13	اگر	اگر	SCONJ	SUBR	_	16	mark	16:mark	_
-14-15	موهایش	_	_	_	_	_	_	_	Entity=(c910)
+14-15	موهایش	_	_	_	_	_	_	_	_
 14	موهای	مو	NOUN	N_IANM	Number=Plur	16	nsubj	16:nsubj	Entity=(c910
 15	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	14	nmod	14:nmod	Entity=(c31)c910)
 16	طلایی	طلایی	ADJ	ADJ_AJP	_	26	advcl	26:advcl	_
