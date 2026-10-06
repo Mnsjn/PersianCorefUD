@@ -2933,52 +2933,56 @@
 11	کنم	کرد	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	3	ccomp	3:ccomp	_
 12	.	.	PUNCT	PUNC	_	3	punct	3:punct	SpacesAfter=\n
 
-# sent_id = 184
-# text = دلم می‌خواست بگویم : " یکی بود یکی نبود . یک وقتی شازده کوچولویی بود که در سیاره‌ای به زحمت یک خرده از خودش بزرگتر خانه داشت ، و نیازمند بود به اینکه دوستی داشته باشد ... "
-1-2	دلم	_	_	_	_	_	_	_	_
-1	دل	دل	NOUN	N_IANM	Number=Sing	3	nsubj	3:nsubj	_
-2	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	Entity=(c79)
-3	می‌خواست	خواست	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	0:root	_
-4	بگویم	گفت	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	3	ccomp	3:ccomp	_
+# sent_id = 184A
+# text = دلم می‌خواست بگویم : " یکی بود یکی نبود .
+1-2	دلم	_	_	_	_	_	_	_	TokenRange=0:3
+1	دل	دل	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
+2	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	1	nmod	_	Entity=(c79)
+3	می‌خواست	خواست	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	TokenRange=4:12
+4	بگویم	گفت	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	3	ccomp	_	TokenRange=13:18
 4.1	pro	PRO	PRON	_	Number=Sing|Person=1|PronType=Prs|Zero=Yes	_	_	4:nsubj	Entity=(c79)
-5	:	:	PUNCT	PUNC	_	7	punct	7:punct	_
-6	"	"	PUNCT	PUNC	_	7	punct	7:punct	_
-7	یکی	یکی	NOUN	N_IANM	Number=Sing	4	ccomp	4:ccomp	_
-8	بود	بود	AUX	AUX	Number=Sing|Person=3	7	cop	7:cop	_
-9	یکی	یکی	NOUN	N_IANM	Number=Sing	7	conj	7:conj	_
-10	نبود	بود	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	9	cop	9:cop	_
-11	یک	یک	NUM	PRENUM	_	12	nummod	12:nummod	_
-12	وقتی	وقت	NOUN	N_IANM	Number=Sing	9	obl	9:obl	_
-13	شازده	شازده	NUM	PRENUM	_	14	nummod	14:nummod	Entity=(c31
-14	کوچولویی	کوچولو	NOUN	N_ANM	Number=Sing	12	acl	12:acl	Entity=c31)
-15	بود	بود	AUX	AUX	Number=Sing|Person=3	14	cop	14:cop	_
-16	که	که	SCONJ	SUBR	_	14	acl	14:acl	_
-17	در	در	ADP	PREP	_	18	case	18:case	_
-18	سیاره‌ای	سیاره	NOUN	N_IANM	Number=Sing	28	obl	28:obl	Entity=(c29
-19	به	به	ADP	PREP	_	20	case	20:case	_
-20	زحمت	زحمت	NOUN	N_IANM	Number=Sing	28	obl	28:obl	_
-21	یک	یک	NUM	PRENUM	_	22	nummod	22:nummod	_
-22	خرده	خرده	NOUN	N_IANM	Number=Sing	20	nmod	20:nmod	_
-23	از	از	ADP	PREP	_	24	case	24:case	_
-24-25	خودش	_	_	_	_	_	_	_	Entity=(c31)
-24	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	28	obl:arg	28:obl:arg	_
-25	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	24	nmod	24:nmod	Entity=(c31)
-26	بزرگتر	بزرگ	ADJ	ADJ_AJCM	_	28	advmod	28:advmod	Entity=c29)
-27	خانه	خانه	NOUN	N_IANM	Number=Sing	28	obj	28:obj	_
-28	داشت	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	12	acl	12:acl	_
-29	،	،	PUNCT	PUNC	_	31	punct	31:punct	_
-30	و	و	CCONJ	CONJ	_	31	cc	31:cc	_
-31	نیازمند	نیازمند	ADJ	ADJ_AJP	_	3	conj	3:conj	_
-32	بود	بود	AUX	AUX	Number=Sing|Person=3	31	cop	31:cop	_
-33	به	به	ADP	PREP	_	34	case	34:case	_
-34	اینکه	اینکه	NOUN	N_IANM	Number=Sing	31	obl:arg	31:obl:arg	_
-35	دوستی	دوستی	NOUN	N_IANM	Number=Sing	36	obj	36:obj	_
-36	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	34	acl	34:acl	_
-37	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	aux	36:aux	_
-38	.	.	PUNCT	PUNC	_	37	punct	37:punct	SpaceAfter=No
-39	.	.	PUNCT	PUNC	_	37	punct	37:punct	SpaceAfter=No
-40	.	.	PUNCT	PUNC	_	37	punct	37:punct	_
-41	"	"	PUNCT	PUNC	_	37	punct	37:punct	SpacesAfter=\n
+5	:	:	PUNCT	PUNC	_	7	punct	_	TokenRange=19:20
+6	"	"	PUNCT	PUNC	_	7	punct	_	TokenRange=21:22
+7	یکی	یکی	NOUN	N_IANM	Number=Sing	4	ccomp	_	TokenRange=23:26
+8	بود	بود	AUX	AUX	Number=Sing|Person=3	7	cop	_	TokenRange=27:30
+9	یکی	یکی	NOUN	N_IANM	Number=Sing	7	conj	_	TokenRange=31:34
+10	نبود	بود	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	9	cop	_	TokenRange=35:39
+11	.	.	PUNCT	PUNC	_	3	punct	_	TokenRange=40:41
+
+# sent_id = 184B
+# text = یک وقتی شازده کوچولویی بود که در سیاره‌ای به زحمت یک خرده از خودش بزرگتر خانه داشت ، و نیازمند بود به اینکه دوستی داشته باشد ... "
+1	یک	یک	NUM	PRENUM	_	2	nummod	_	TokenRange=42:44
+2	وقتی	وقت	NOUN	N_IANM	Number=Sing	4	obl	_	Entity=(c31|TokenRange=45:49
+3	شازده	شازده	NUM	PRENUM	_	4	nummod	_	Entity=c31)|TokenRange=50:55
+4	کوچولویی	کوچولو	NOUN	N_ANM	Number=Sing	0	root	_	TokenRange=56:64
+5	بود	بود	AUX	AUX	Number=Sing|Person=3	4	cop	_	TokenRange=65:68
+6	که	که	SCONJ	SUBR	_	4	acl	_	TokenRange=69:71
+7	در	در	ADP	PREP	_	8	case	_	TokenRange=72:74
+8	سیاره‌ای	سیاره	NOUN	N_IANM	Number=Sing	18	obl	_	Entity=(c29|TokenRange=75:83
+9	به	به	ADP	PREP	_	10	case	_	TokenRange=84:86
+10	زحمت	زحمت	NOUN	N_IANM	Number=Sing	18	obl	_	TokenRange=87:91
+11	یک	یک	NUM	PRENUM	_	12	nummod	_	TokenRange=92:94
+12	خرده	خرده	NOUN	N_IANM	Number=Sing	10	nmod	_	TokenRange=95:99
+13	از	از	ADP	PREP	_	14	case	_	TokenRange=100:102
+14-15	خودش	_	_	_	_	_	_	_	TokenRange=103:107
+14	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	18	obl:arg	_	_
+15	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	14	nmod	_	Entity=(c31)
+16	بزرگتر	بزرگ	ADJ	ADJ_AJCM	_	18	advmod	_	Entity=c29)|TokenRange=108:114
+17	خانه	خانه	NOUN	N_IANM	Number=Sing	18	obj	_	TokenRange=115:119
+18	داشت	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl	_	TokenRange=120:124
+19	،	،	PUNCT	PUNC	_	21	punct	_	TokenRange=125:126
+20	و	و	CCONJ	CONJ	_	21	cc	_	TokenRange=127:128
+21	نیازمند	نیازمند	ADJ	ADJ_AJP	_	18	conj	_	TokenRange=129:136
+22	بود	بود	AUX	AUX	Number=Sing|Person=3	21	cop	_	TokenRange=137:140
+23	به	به	ADP	PREP	_	24	case	_	TokenRange=141:143
+24	اینکه	اینکه	NOUN	N_IANM	Number=Sing	21	obl:arg	_	TokenRange=144:149
+25	دوستی	دوستی	NOUN	N_IANM	Number=Sing	26	obj	_	TokenRange=150:155
+26	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	24	acl	_	TokenRange=156:161
+27	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	TokenRange=162:166
+28	.	.	PUNCT	PUNC	_	27	punct	_	SpaceAfter=No|TokenRange=167:168
+29	.	.	PUNCT	PUNC	_	27	punct	_	SpaceAfter=No|TokenRange=168:169
+30	.	.	PUNCT	PUNC	_	27	punct	_	TokenRange=169:170
+31	"	"	PUNCT	PUNC	_	4	punct	_	TokenRange=171:172
 
 # sent_id = 185
 # text = برای آنها که معنی زندگی را درک می‌کنند ، این‌طور قصه گفتن بیشتر بوی راستی می‌داد .
