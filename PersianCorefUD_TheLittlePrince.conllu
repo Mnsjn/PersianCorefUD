@@ -18190,7 +18190,7 @@
 20	.	.	PUNCT	PUNC	_	17	punct	17:punct	SpacesAfter=\n
 
 # sent_id = 1249
-# text = من در جواب گفتم : ‌" البته ! "
+# text = من در جواب گفتم : " البته ! "
 1	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(c79)
 2	در	در	ADP	PREP	_	3	case	3:case	_
 3	جواب	جواب	NOUN	N_IANM	Number=Sing	4	obl	4:obl	_
