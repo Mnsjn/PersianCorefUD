@@ -8244,7 +8244,7 @@
 4	البته	البته	ADV	ADV_SADV	_	6	advmod	_	_
 5	که	که	PART	PART	_	6	mark	_	_
 6	می‌کنند	کرد	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	2	ccomp	_	_
-6.1	pro	PRO	PRON	_	Number=Plur|Person=3|PronType=nonPrs|Zero=Yes	_	_	6:nsubj	Entity=(c112)
+6.1	pro	PRO	PRON	_	Number=Plur|Person=3|PronType=Prs|Zero=Yes	_	_	6:nsubj	Entity=(c112)|Pronoun=it
 7	!	!	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 533
@@ -10784,7 +10784,7 @@
 11	مال	مال	NOUN	N_IANM	Number=Sing	0	root	_	_
 12	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	11	nmod	_	Entity=(c31)
 13	است	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
-13.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	13:nsubj	Entity=(c110)
+13.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	13:nsubj	Entity=(c110)|Pronoun=it
 14	دیگر	دیگر	ADJ	ADJ_AJP	_	11	advmod	_	_
 15	!	!	PUNCT	PUNC	_	11	punct	_	SpacesAfter=\n
 
@@ -11083,7 +11083,7 @@
 1	شاعرانه	شاعرانه	ADJ	ADJ_AJP	_	3	xcomp	_	_
 2	هم	هم	ADV	ADV_SADV	_	1	dep	_	_
 3	هست	هست	VERB	AUX	Number=Sing|Person=3	0	root	_	_
-3.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	3:nsubj	_
+3.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	3:nsubj	Pronoun=it
 4	،	،	PUNCT	PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = 745
@@ -11092,7 +11092,7 @@
 2	خیلی	خیلی	ADV	ADV_SADV	_	4	advmod	_	_
 3	جدی	جدی	ADJ	ADJ_AJP	_	4	xcomp	_	_
 4	نیست	هست	VERB	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	_	_
-4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	4:nsubj	_
+4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	4:nsubj	Pronoun=it
 5	.	.	PUNCT	PUNC	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = 746
@@ -12275,7 +12275,7 @@
 35	غروب	غروب	NOUN	N_IANM	Number=Sing	37	obj	_	_
 36	خورشید	خورشید	NOUN	N_IANM	Number=Sing	35	nmod	_	Entity=(c38)
 37	داشت	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	20	advcl	_	_
-37.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	37:nsubj	Entity=(c96)
+37.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	37:nsubj	Entity=(c96)|Pronoun=it
 38	.	.	PUNCT	PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = 825
@@ -13009,7 +13009,7 @@
 2	کوچک	کوچک	ADJ	ADJ_AJP	_	0	root	_	_
 3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
 4	.	.	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
-4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	4:nsubj	Entity=(c29)
+4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	4:nsubj	Entity=(c29)|Pronoun=it
 
 # sent_id = 885
 # text = من سه تا آتشفشان دارم .
@@ -13231,7 +13231,7 @@
 1	چون	چون	SCONJ	SUBR	_	3	mark	_	_
 2	تغییر	تغییر	NOUN	N_IANM	Number=Sing	3	compound:lvc	_	_
 3	نمی‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	_
-3.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	3:nsubj	_
+3.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	3:nsubj	Pronoun=it
 4	.	.	PUNCT	PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = 905
@@ -14124,7 +14124,7 @@
 3	سر	سر	NOUN	N_IANM	Number=Sing	2	nmod	_	_
 4	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	3	nmod	_	Entity=(c1011)|SplitAnte=c132<c1011,c31<c1011
 5	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
-5.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	5:nsubj	Entity=(c29)
+5.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	5:nsubj	Entity=(c29)|Pronoun=it
 6	.	.	PUNCT	PUNC	_	2	punct	_	SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	2	punct	_	SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
@@ -14135,7 +14135,7 @@
 2	چقدر	چقدر	ADV	ADV_SADV	_	3	advmod	_	_
 3	دور	دور	ADJ	ADJ_AJP	_	0	root	_	_
 4	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
-4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	4:nsubj	Entity=(c29)
+4.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	4:nsubj	Entity=(c29)|Pronoun=it
 5	!	!	PUNCT	PUNC	_	3	punct	_	_
 6	.	.	PUNCT	PUNC	_	3	punct	_	SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	3	punct	_	SpaceAfter=No
@@ -14151,7 +14151,7 @@
 6-7	زیباست	_	_	_	_	_	_	_	_
 6	زیبا	زیبا	ADJ	ADJ_AJP	_	2	ccomp	_	_
 7	ست	است	AUX	AUX	Number=Sing|Person=3	6	cop	_	_
-7.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	7:nsubj	Entity=(c29)
+7.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	7:nsubj	Entity=(c29)|Pronoun=it
 8	!	!	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 963
@@ -14911,7 +14911,7 @@
 5	و	و	CCONJ	CONJ	_	6	cc	_	_
 6	شوری	شور	NOUN	N_IANM	Number=Sing	2	conj	_	_
 7	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
-7.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	7:nsubj	Entity=(c50)
+7.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	7:nsubj	Entity=(c50)|Pronoun=it
 8	!	!	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 1021
@@ -19107,7 +19107,7 @@
 5	خوبی	خوبی	NOUN	N_IANM	Number=Sing	6	obl	_	_
 6	هدیه	هدیه	NOUN	N_IANM	Number=Sing	0	root	_	_
 7	بود	بود	AUX	AUX	Number=Sing|Person=3	6	cop	_	_
-7.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	7:nsubj	Entity=(c81)
+7.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	7:nsubj	Entity=(c81)|Pronoun=it
 8	.	.	PUNCT	PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = 1306
@@ -21875,7 +21875,7 @@
 1	خیلی	خیلی	ADV	ADV_SADV	_	2	advmod	_	_
 2	سنگین	سنگین	ADJ	ADJ_AJP	_	0	root	_	_
 3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
-3.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=nonPrs|Zero=Yes	_	_	3:nsubj	Entity=(c122)
+3.1	pro	PRO	PRON	_	Number=Sing|Person=3|PronType=Prs|Zero=Yes	_	_	3:nsubj	Entity=(c122)|Pronoun=it
 4	.	.	PUNCT	PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 1495
